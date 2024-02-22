@@ -309,8 +309,8 @@ change the value of `carpentry` to `pilot`.
 <p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
 <p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
 {% endif %}
-<hr/>
 {% endcomment %}
+<hr/>
 
 {% comment %}
 SCHEDULE
